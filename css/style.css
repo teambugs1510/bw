@@ -106,7 +106,7 @@ a{
 	scroll-behavior: smooth;
 }
 .about-box img{
-	width: 55rem;
+	width: 100%;
 	padding: 3rem;
 	height: auto;
 }
