@@ -51,7 +51,7 @@ a{
 	margin-right: 2rem;
 }
 .nav-sticky{
-	background-color: black;
+	background-color: black!important;
 }
 /*navbar ends here*/
 
