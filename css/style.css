@@ -50,6 +50,9 @@ a{
 	position: absolute;
 	margin-right: 2rem;
 }
+.nav-sticky{
+	background-color: black;
+}
 /*navbar ends here*/
 
 
