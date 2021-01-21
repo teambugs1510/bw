@@ -197,6 +197,11 @@ a{
 	html{
 		font-size: 45%;
 	}
+	.about-box img{
+		width: 80%;
+		padding: 3rem;
+		height: auto;
+	}
  }
 
 /*// Small devices (landscape phones, 576px and up)*/
