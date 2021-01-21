@@ -106,7 +106,7 @@ a{
 	scroll-behavior: smooth;
 }
 .about-box img{
-	width: 100%;
+	width: 48rem;
 	padding: 3rem;
 	height: auto;
 }
@@ -197,13 +197,7 @@ a{
 	html{
 		font-size: 45%;
 	}
-	.about-box img{
-		width: 80%;
-		padding: 3rem;
-		height: auto;
-	}
- }
-
+}
 /*// Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) { 
 
